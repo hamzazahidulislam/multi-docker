@@ -4,6 +4,7 @@
 
 1.  What i did here?
 2.  let's understand the application architecture?
+3.  How to run multiple docker containers?
 
 # What i did here?
 
@@ -15,5 +16,8 @@ first I create a frontend Dockerfile then I create a backend docker file and the
 
 ## frontend architecture
 
-
 <a href="./images/application-frontend-overview.PNG"><img src="./images/application-frontend-overview.PNG" alt="application-architecture" border="0" width="100%"></a>
+
+# How to run multiple docker containers?
+
+- ### Run `docker-compose up -d`
